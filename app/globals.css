@@ -35,6 +35,11 @@ body {
   background-size: 60px 60px;
 }
 
+.bg-projects-pattern {
+  background-image: url('/img/web/bg-projects-pattern.svg');
+  background-repeat: repeat;
+}
+
 .scrollbar-hide::-webkit-scrollbar {
   display: none; /* Chrome, Safari and Opera */
 }
