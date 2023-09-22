@@ -1,6 +1,7 @@
 import MyWork from '@/components/landing/my-work'
 import Welcome from '@/components/landing/welcome'
 import Navbar from '@/components/ui/navbar'
+import WhatIDo from '@/components/landing/what-i-do'
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <Navbar />
       <Welcome />
       <MyWork />
+      <WhatIDo />
     </main>
   )
 }

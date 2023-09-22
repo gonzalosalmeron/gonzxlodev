@@ -1,6 +1,6 @@
 ---
 title: 'Bullyganza'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+excerpt: '"The BullyGanza" es un blog dedicado a las razas de perros bully, con contenido sobre exhibiciones caninas y un evento de gran envergadura para promocionar estas razas.'
 coverImage: '/assets/blog/preview/cover.jpg'
 date: '2020-03-16'
 author:
